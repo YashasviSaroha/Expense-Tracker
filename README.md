@@ -7,7 +7,7 @@ A full-stack MERN (MongoDB, Express, React, Node.js) application to manage and t
 ## 🚀 Live Links
 
 - 🔗 **Frontend (Vercel)**: [https://expense-tracker-swxg.vercel.app/](https://expense-tracker-swxg.vercel.app/)
-- 🔗 **Backend (Vercel)**: [https://expense-tracker-nu-smoky.vercel.app/]([https://expense-tracker-nu-smoky.vercel.app/])
+- 🔗 **Backend (Vercel)**: [https://expense-tracker-nu-smoky.vercel.app/](https://expense-tracker-nu-smoky.vercel.app/)
 - 🔗 **GitHub Repository**: [https://github.com/YashasviSaroha/Expense-Tracker](https://github.com/YashasviSaroha/Expense-Tracker)
 
 ---
